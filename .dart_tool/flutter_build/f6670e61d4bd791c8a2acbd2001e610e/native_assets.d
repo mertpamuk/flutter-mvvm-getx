@@ -1,0 +1,1 @@
+ /Users/mac/Desktop/mvvmgetxcase/.dart_tool/flutter_build/f6670e61d4bd791c8a2acbd2001e610e/native_assets.yaml: 
