@@ -1,5 +1,5 @@
+import 'package:fluttermvvmgetx/pages/comment/comment_model.dart';
 import 'package:get/get.dart';
-import 'package:mvvmgetxcase/pages/comment/comment_model.dart';
 
 import '../../core/interface/igetxcontroller.dart';
 import '../../service/post_service.dart';

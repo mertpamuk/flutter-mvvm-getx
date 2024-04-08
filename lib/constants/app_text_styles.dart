@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvvmgetxcase/constants/app_colors.dart';
+import 'package:fluttermvvmgetx/constants/app_colors.dart';
 
 class AppTextStyles {
   static const whiteText = TextStyle(color: Colors.white);

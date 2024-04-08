@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mvvmgetxcase/constants/app_colors.dart';
+import 'package:fluttermvvmgetx/constants/app_colors.dart';
 
 class AppBoxDecorations {
   static BoxDecoration appCardTitleDecoration = BoxDecoration(
